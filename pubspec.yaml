@@ -4,7 +4,7 @@ version: 1.0.0
 homepage: https://github.com/longhoang2984/ticket_view
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.19.4 <3.0.0'
 
 dependencies:
   flutter:
